@@ -1,6 +1,6 @@
 # Web_application_testing
 
-Project description:
+Project Description:
 
 Full test for GregOlsen.PhotoStudio (except for check of sending and getting messages from the Contact form)<br>
 Link to the project: https://photostudio.demohoster.com/<br>
